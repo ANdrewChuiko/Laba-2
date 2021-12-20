@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1584205420 source:c:\users\andrew\desktop\кпі\кодблок\labanum2\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1637275137 source:d:\кпі\кодблок\labanum2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
